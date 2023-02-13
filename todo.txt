@@ -1,0 +1,12 @@
+-figure out why 1200px media queries not working
+-fix top of page button
+-make background white and 100% width on toggle navbar
+-align navlink button for each query
+-make seperate article page template to be reused
+-make large/desktop media query page
+-finish footer
+-get rid of underline home on toggle navbar
+-make advertise button
+-setup working form or send email
+-get twitter/instagram links working
+-setup donate page
